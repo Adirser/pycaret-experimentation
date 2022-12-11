@@ -1622,3 +1622,47 @@ Alternately, you can install this by running `pip install pycaret[models]`
 2022-12-11 13:36:04,268:INFO:Preloading libraries
 2022-12-11 13:36:04,269:INFO:Set up data.
 2022-12-11 13:36:04,276:INFO:Set up index.
+2022-12-11 18:36:29,849:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/tslearn/bases/bases.py:15: UserWarning: h5py not installed, hdf5 features will not be supported.
+Install h5py to use hdf5 features: http://docs.h5py.org/
+  warn(h5py_msg)
+
+2022-12-11 19:32:19,832:WARNING:/var/folders/x0/zz3czyts4pb3csc4vprvvnkc0000gq/T/ipykernel_50006/1169243316.py:1: DeprecationWarning: `np.float` is a deprecated alias for the builtin `float`. To silence this warning, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  x= np.array(heartbeat_df.iloc[0]).astype(np.float)
+
+2022-12-11 19:56:10,714:WARNING:/var/folders/x0/zz3czyts4pb3csc4vprvvnkc0000gq/T/ipykernel_50006/3194315842.py:4: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  heartbeat_df.iloc[t][-1] = x[0]
+
+2022-12-11 19:56:38,894:WARNING:/var/folders/x0/zz3czyts4pb3csc4vprvvnkc0000gq/T/ipykernel_50006/2659512884.py:4: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  heartbeat_df.iloc[t][-1] = x[0]
+
+2022-12-11 19:56:53,088:WARNING:/var/folders/x0/zz3czyts4pb3csc4vprvvnkc0000gq/T/ipykernel_50006/1579532180.py:4: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  heartbeat_df.iloc[t][-1] = x[0]
+
+2022-12-11 19:57:16,075:WARNING:/var/folders/x0/zz3czyts4pb3csc4vprvvnkc0000gq/T/ipykernel_50006/2982038305.py:4: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  heartbeat_df.iloc[t][-1] = x[0]
+
+2022-12-11 19:58:27,214:WARNING:/var/folders/x0/zz3czyts4pb3csc4vprvvnkc0000gq/T/ipykernel_50006/2982038305.py:4: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  heartbeat_df.iloc[t][-1] = x[0]
+
+2022-12-11 19:59:55,313:WARNING:/var/folders/x0/zz3czyts4pb3csc4vprvvnkc0000gq/T/ipykernel_50006/1178249458.py:5: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  heartbeat_df.iloc[t][-1] = x[0]
+
