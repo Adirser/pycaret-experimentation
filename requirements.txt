@@ -1,0 +1,10 @@
+pandas
+numpy
+pycaret
+seaborn
+matplotlib
+torch
+torchvision 
+scikit-learn
+sktime
+Jinja2
