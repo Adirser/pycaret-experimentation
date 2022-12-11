@@ -1,2 +1,2 @@
 # Ignore venv and everything venv related
-/pycaretVenv
+/pycaretVenv/*
