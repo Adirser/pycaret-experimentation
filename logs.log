@@ -1666,3 +1666,48 @@ A value is trying to be set on a copy of a slice from a DataFrame
 See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
   heartbeat_df.iloc[t][-1] = x[0]
 
+2022-12-15 19:19:21,994:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:20:06,737:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:20:50,122:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:21:18,518:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:21:50,271:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:26:40,133:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:28:26,331:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:29:29,395:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:30:33,570:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:31:04,148:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:46:22,190:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:48:02,972:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:48:45,672:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:49:37,573:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
+2022-12-15 19:51:11,246:WARNING:/Users/adirserruya/Desktop/PyCarret tutorial/pycaretVenv/lib/python3.10/site-packages/sklearn/preprocessing/_label.py:115: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  y = column_or_1d(y, warn=True)
+
